@@ -22,3 +22,6 @@ url=https://github.com/enketo/enketo-core.git
 [submodule "public/lib/file-system"]
 	path = public/lib/file-system
 	url = https://github.com/enketo/file-system.git
+[submodule "Code_Igniter/application/third_party/form_auth"]
+	path = Code_Igniter/application/third_party/form_auth
+	url = https://github.com/MartijnR/enketo_form_auth.git
