@@ -24,7 +24,8 @@ require.config( {
         "Blob": "../../../lib/bower-components/blob/Blob",
         "vkbeautify": "../../../lib/vkbeautify/vkbeautify",
         "leaflet": "../../../lib/enketo-core/lib/leaflet/leaflet",
-        "q": "../../../lib/bower-components/q/q"
+        "q": "../../../lib/bower-components/q/q",
+        "print": "print-grid"
     },
     shim: {
         "xpath": {
